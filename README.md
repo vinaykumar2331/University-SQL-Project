@@ -6,8 +6,8 @@ The database is implemented using SQL and demonstrates best practices in relatio
 
 ## 🗂️ Folder Structure
 
-- `create_tables/`: Contains `create_tables.sql`
-- `insert_tables/`: Contains `insert tables`
+- `create_tables/`: Contains structure of the data `Tables`
+- `insert_tables/`: Contains data in the tables
 - `queries/`: Contains queries and solutions
 
 ## 📘 Topics Covered
@@ -32,6 +32,4 @@ The database is implemented using SQL and demonstrates best practices in relatio
 3. Run `schema/insert_data.sql`
 4. Practice with queries in the `queries/` folder
 
-## 📬 Author
 
-Made for learning and practice purposes as a fresher in SQL.
