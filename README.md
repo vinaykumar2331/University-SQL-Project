@@ -6,9 +6,9 @@ The database is implemented using SQL and demonstrates best practices in relatio
 
 ## 🗂️ Folder Structure
 
-- `schema/`: Contains `create_tables.sql` and `insert_data.sql`
-- `queries/`: Basic and intermediate SQL practice tasks
-- `solutions/`: Suggested solutions (optional)
+- `create_tables/`: Contains `create_tables.sql`
+- `insert_tables/`: Contains `insert tables`
+- `queries/`: Contains queries and solutions
 
 ## 📘 Topics Covered
 
