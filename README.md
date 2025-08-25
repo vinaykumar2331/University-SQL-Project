@@ -1,6 +1,8 @@
 # 🎓 University SQL project (MySQL)
 
-This project simulates a basic University Management System. It includes SQL scripts for creating the schema, inserting sample data, and practicing basic to intermediate SQL queries.
+This project is a relational database system designed to manage and organize data within a university setting. The system models essential components of academic operations, including student records, professor information, courses offered, and course enrollments.
+
+The database is implemented using SQL and demonstrates best practices in relational database design, including the use of primary keys, foreign keys, and normalization principles. It also includes sample data to simulate real-world use cases.
 
 ## 🗂️ Folder Structure
 
